@@ -1,0 +1,16 @@
+﻿{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "Weather": {
+    "WeatherApiKey": "Your API Key"
+  },
+  "URI":{
+    "uri1": "https://api.weatherapi.com/v1/forecast.json?key=",
+    "uri2": "&q=",
+    "uri3": "&days=1&aqi=yes&alerts=no"
+  }
+}
